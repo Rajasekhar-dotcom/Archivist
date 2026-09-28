@@ -1,0 +1,402 @@
+[
+  {
+    "id": "post_1",
+    "title": "Best Practices for pricing billing 1",
+    "slug": "best-practices-pricing-billing-1",
+    "cluster": "pricing-billing",
+    "publishedAt": "2026-03-22T22:59:47.544Z",
+    "baselineViews": 816,
+    "causeHint": "outdated_stats",
+    "format": "guide"
+  },
+  {
+    "id": "post_2",
+    "title": "Best Practices for auth security 2",
+    "slug": "best-practices-auth-security-2",
+    "cluster": "auth-security",
+    "publishedAt": "2026-02-06T16:04:04.168Z",
+    "baselineViews": 535,
+    "causeHint": "thin_faq",
+    "format": "guide"
+  },
+  {
+    "id": "post_3",
+    "title": "Best Practices for analytics reporting 3",
+    "slug": "best-practices-analytics-reporting-3",
+    "cluster": "analytics-reporting",
+    "publishedAt": "2026-03-07T07:08:49.276Z",
+    "baselineViews": 1121,
+    "causeHint": "weak_intro",
+    "format": "guide"
+  },
+  {
+    "id": "post_4",
+    "title": "Best Practices for api infrastructure 4",
+    "slug": "best-practices-api-infrastructure-4",
+    "cluster": "api-infrastructure",
+    "publishedAt": "2026-02-15T16:01:00.785Z",
+    "baselineViews": 1431,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_5",
+    "title": "Best Practices for pricing billing 5",
+    "slug": "best-practices-pricing-billing-5",
+    "cluster": "pricing-billing",
+    "publishedAt": "2026-03-18T03:40:09.692Z",
+    "baselineViews": 858,
+    "causeHint": "outdated_stats",
+    "format": "guide"
+  },
+  {
+    "id": "post_6",
+    "title": "Best Practices for auth security 6",
+    "slug": "best-practices-auth-security-6",
+    "cluster": "auth-security",
+    "publishedAt": "2025-12-26T04:54:31.762Z",
+    "baselineViews": 474,
+    "causeHint": "thin_faq",
+    "format": "guide"
+  },
+  {
+    "id": "post_7",
+    "title": "Best Practices for analytics reporting 7",
+    "slug": "best-practices-analytics-reporting-7",
+    "cluster": "analytics-reporting",
+    "publishedAt": "2026-04-20T05:11:02.252Z",
+    "baselineViews": 1258,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_8",
+    "title": "Best Practices for api infrastructure 8",
+    "slug": "best-practices-api-infrastructure-8",
+    "cluster": "api-infrastructure",
+    "publishedAt": "2026-03-12T11:17:22.856Z",
+    "baselineViews": 1409,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_9",
+    "title": "Best Practices for pricing billing 9",
+    "slug": "best-practices-pricing-billing-9",
+    "cluster": "pricing-billing",
+    "publishedAt": "2026-02-18T11:48:39.280Z",
+    "baselineViews": 829,
+    "causeHint": "outdated_stats",
+    "format": "guide"
+  },
+  {
+    "id": "post_10",
+    "title": "Best Practices for auth security 10",
+    "slug": "best-practices-auth-security-10",
+    "cluster": "auth-security",
+    "publishedAt": "2026-03-18T11:02:16.762Z",
+    "baselineViews": 450,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_11",
+    "title": "Best Practices for analytics reporting 11",
+    "slug": "best-practices-analytics-reporting-11",
+    "cluster": "analytics-reporting",
+    "publishedAt": "2026-06-10T08:59:12.283Z",
+    "baselineViews": 1280,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_12",
+    "title": "Best Practices for api infrastructure 12",
+    "slug": "best-practices-api-infrastructure-12",
+    "cluster": "api-infrastructure",
+    "publishedAt": "2026-06-14T07:24:32.531Z",
+    "baselineViews": 1527,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_13",
+    "title": "Best Practices for pricing billing 13",
+    "slug": "best-practices-pricing-billing-13",
+    "cluster": "pricing-billing",
+    "publishedAt": "2026-06-08T06:14:25.943Z",
+    "baselineViews": 762,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_14",
+    "title": "Best Practices for auth security 14",
+    "slug": "best-practices-auth-security-14",
+    "cluster": "auth-security",
+    "publishedAt": "2026-01-14T21:45:51.179Z",
+    "baselineViews": 468,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_15",
+    "title": "Best Practices for analytics reporting 15",
+    "slug": "best-practices-analytics-reporting-15",
+    "cluster": "analytics-reporting",
+    "publishedAt": "2026-06-15T04:35:52.435Z",
+    "baselineViews": 1207,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_16",
+    "title": "Best Practices for api infrastructure 16",
+    "slug": "best-practices-api-infrastructure-16",
+    "cluster": "api-infrastructure",
+    "publishedAt": "2026-01-03T01:53:17.599Z",
+    "baselineViews": 1401,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_17",
+    "title": "Best Practices for pricing billing 17",
+    "slug": "best-practices-pricing-billing-17",
+    "cluster": "pricing-billing",
+    "publishedAt": "2026-01-09T19:28:51.245Z",
+    "baselineViews": 798,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_18",
+    "title": "Best Practices for auth security 18",
+    "slug": "best-practices-auth-security-18",
+    "cluster": "auth-security",
+    "publishedAt": "2026-03-22T15:17:30.214Z",
+    "baselineViews": 481,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_19",
+    "title": "Best Practices for analytics reporting 19",
+    "slug": "best-practices-analytics-reporting-19",
+    "cluster": "analytics-reporting",
+    "publishedAt": "2026-06-10T08:06:21.952Z",
+    "baselineViews": 1088,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_20",
+    "title": "Best Practices for api infrastructure 20",
+    "slug": "best-practices-api-infrastructure-20",
+    "cluster": "api-infrastructure",
+    "publishedAt": "2026-02-21T06:29:22.423Z",
+    "baselineViews": 1516,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_21",
+    "title": "Best Practices for pricing billing 21",
+    "slug": "best-practices-pricing-billing-21",
+    "cluster": "pricing-billing",
+    "publishedAt": "2026-02-11T11:27:29.093Z",
+    "baselineViews": 759,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_22",
+    "title": "Best Practices for auth security 22",
+    "slug": "best-practices-auth-security-22",
+    "cluster": "auth-security",
+    "publishedAt": "2026-04-20T21:22:08.321Z",
+    "baselineViews": 470,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_23",
+    "title": "Best Practices for analytics reporting 23",
+    "slug": "best-practices-analytics-reporting-23",
+    "cluster": "analytics-reporting",
+    "publishedAt": "2025-12-30T20:58:43.719Z",
+    "baselineViews": 1257,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_24",
+    "title": "Best Practices for api infrastructure 24",
+    "slug": "best-practices-api-infrastructure-24",
+    "cluster": "api-infrastructure",
+    "publishedAt": "2026-05-10T18:40:43.511Z",
+    "baselineViews": 1502,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_25",
+    "title": "Best Practices for pricing billing 25",
+    "slug": "best-practices-pricing-billing-25",
+    "cluster": "pricing-billing",
+    "publishedAt": "2026-04-23T00:25:52.917Z",
+    "baselineViews": 765,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_26",
+    "title": "Best Practices for auth security 26",
+    "slug": "best-practices-auth-security-26",
+    "cluster": "auth-security",
+    "publishedAt": "2026-02-08T15:27:51.173Z",
+    "baselineViews": 457,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_27",
+    "title": "Best Practices for analytics reporting 27",
+    "slug": "best-practices-analytics-reporting-27",
+    "cluster": "analytics-reporting",
+    "publishedAt": "2026-02-01T23:58:05.750Z",
+    "baselineViews": 1243,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_28",
+    "title": "Best Practices for api infrastructure 28",
+    "slug": "best-practices-api-infrastructure-28",
+    "cluster": "api-infrastructure",
+    "publishedAt": "2026-06-03T00:32:40.922Z",
+    "baselineViews": 1628,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_29",
+    "title": "Best Practices for pricing billing 29",
+    "slug": "best-practices-pricing-billing-29",
+    "cluster": "pricing-billing",
+    "publishedAt": "2026-03-26T09:19:52.455Z",
+    "baselineViews": 870,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_30",
+    "title": "Best Practices for auth security 30",
+    "slug": "best-practices-auth-security-30",
+    "cluster": "auth-security",
+    "publishedAt": "2026-05-24T03:45:31.919Z",
+    "baselineViews": 544,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_31",
+    "title": "Best Practices for analytics reporting 31",
+    "slug": "best-practices-analytics-reporting-31",
+    "cluster": "analytics-reporting",
+    "publishedAt": "2026-06-17T10:44:43.001Z",
+    "baselineViews": 1106,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_32",
+    "title": "Best Practices for api infrastructure 32",
+    "slug": "best-practices-api-infrastructure-32",
+    "cluster": "api-infrastructure",
+    "publishedAt": "2026-03-16T06:31:23.300Z",
+    "baselineViews": 1458,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_33",
+    "title": "Best Practices for pricing billing 33",
+    "slug": "best-practices-pricing-billing-33",
+    "cluster": "pricing-billing",
+    "publishedAt": "2025-12-22T16:54:46.627Z",
+    "baselineViews": 817,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_34",
+    "title": "Best Practices for auth security 34",
+    "slug": "best-practices-auth-security-34",
+    "cluster": "auth-security",
+    "publishedAt": "2026-01-27T16:43:14.704Z",
+    "baselineViews": 457,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_35",
+    "title": "Best Practices for analytics reporting 35",
+    "slug": "best-practices-analytics-reporting-35",
+    "cluster": "analytics-reporting",
+    "publishedAt": "2026-04-25T23:11:02.974Z",
+    "baselineViews": 1304,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_36",
+    "title": "Best Practices for api infrastructure 36",
+    "slug": "best-practices-api-infrastructure-36",
+    "cluster": "api-infrastructure",
+    "publishedAt": "2026-05-15T16:36:07.819Z",
+    "baselineViews": 1561,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_37",
+    "title": "Best Practices for pricing billing 37",
+    "slug": "best-practices-pricing-billing-37",
+    "cluster": "pricing-billing",
+    "publishedAt": "2026-01-07T05:42:38.824Z",
+    "baselineViews": 803,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_38",
+    "title": "Best Practices for auth security 38",
+    "slug": "best-practices-auth-security-38",
+    "cluster": "auth-security",
+    "publishedAt": "2025-12-03T11:43:32.792Z",
+    "baselineViews": 462,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_39",
+    "title": "Best Practices for analytics reporting 39",
+    "slug": "best-practices-analytics-reporting-39",
+    "cluster": "analytics-reporting",
+    "publishedAt": "2025-12-19T09:24:51.957Z",
+    "baselineViews": 1215,
+    "causeHint": "none",
+    "format": "guide"
+  },
+  {
+    "id": "post_40",
+    "title": "Best Practices for api infrastructure 40",
+    "slug": "best-practices-api-infrastructure-40",
+    "cluster": "api-infrastructure",
+    "publishedAt": "2026-02-24T22:13:00.147Z",
+    "baselineViews": 1480,
+    "causeHint": "none",
+    "format": "guide"
+  }
+]

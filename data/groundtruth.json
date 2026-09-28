@@ -1,0 +1,33 @@
+{
+  "cases": [
+    {
+      "type": "update_stats",
+      "targets": [
+        "post_1",
+        "post_5",
+        "post_9"
+      ],
+      "expected_effect": ">0.30",
+      "expected_label": "improved"
+    },
+    {
+      "type": "add_faq",
+      "targets": [
+        "post_2",
+        "post_6"
+      ],
+      "expected_effect": "~0",
+      "expected_label": "no_effect"
+    },
+    {
+      "type": "autonomous_rebound",
+      "target": "post_3",
+      "expected_label": "no_effect"
+    },
+    {
+      "type": "contaminated_control",
+      "target": "post_4",
+      "expected_action": "flagged_and_excluded"
+    }
+  ]
+}
